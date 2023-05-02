@@ -1,0 +1,16 @@
+{
+    "name" : "bcs-human",
+    "description": "human",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmVjVV98gKnoSAdtzrmq3s2dorqAxLBWSVnNBA3UV6gQF2?",
+    "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "humen"
+        },
+        {
+          "trait_type": "humen",
+          "value": "humen"
+        }
+      ]
+    
+}

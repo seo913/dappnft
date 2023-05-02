@@ -1,0 +1,16 @@
+{
+    "name" : "bsc-tangero",
+    "description": "human",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmSrCZHGFNPrtzhyjLsbf4QMiMXKDQfrPuMWftfNX1mREj",
+    "attributes": [
+        {
+        "trait_type": "Type",
+        "value": "fire"
+        },
+        {
+        "trait_type": "human",
+        "value": "human"
+        }
+    ]
+    
+}

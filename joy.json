@@ -1,0 +1,16 @@
+{
+    "name" : "joy",
+    "description": "human",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmWzg5aPLGtUp66PcLoiLycgRsmA4Qrmh3ZrBkNNnaZ2uD",
+    "attributes": [
+        {
+        "trait_type": "Type",
+        "value": "dog"
+        },
+        {
+        "trait_type": "dog",
+        "value": "dog"
+        }
+    ]
+    
+}

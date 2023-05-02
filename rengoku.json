@@ -1,0 +1,16 @@
+{
+    "name" : "bsc-rengoku",
+    "description": "human",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmc5N8JpZb6tVEeZiZEiSjt6qpuwQoG98gvrRZYyimn8pg",
+    "attributes": [
+        {
+        "trait_type": "Type",
+        "value": "fire"
+        },
+        {
+        "trait_type": "human",
+        "value": "human"
+        }
+    ]
+    
+}
